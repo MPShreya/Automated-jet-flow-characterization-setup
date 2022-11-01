@@ -1,6 +1,6 @@
 # Automated-jet-flow-characterization-setup
 
-Project name: Design of an automated jet flow characterization set up
+Project title: Design of an automated jet flow characterization set up
 
 Duration: Jan 2022 - May 2022
 
